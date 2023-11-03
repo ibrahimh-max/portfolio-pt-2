@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div>
+                <h2>Hello World</h2>
+            </div>
+            <div>
+                <P>Work</P>
+                <P>About</P>
+                <P>Contact</P>
+            </div>
+
+        </nav>
+    </header>
+    <main>
+        <section>
+            <div>
+                <div>
+                    <p>My name is Ibrahim Hassan and I am a</p>
+                    <h1>WEB DEVELOPER</h1>
+                    <p>I can make creative and eye catchy websites for professional and friendly users</p>
+                </div>
+            </div>
+            <div>
+                <button>
+                    <P>Contact me</P>
+                </button>
+            </div>
+                 <img src="Images/img1.png">          
+            
+            </div>
+        </section>
+        <section>
+            <div>
+                <h3>My Work</h3>
+                <P>
+                    projects I've worked on
+                </P>
+            </div>
+            <div>
+                <img src="Images/img1.png">
+            </div>
+            <div>
+                <P>Project 1</P>
+                <P>Making a portfolio website for myself </P>
+            </div>
+            <div>
+                <img src="Images/img2.png">
+            </div>
+            <div>
+                <p>
+                    Project 2
+                </p>
+                <P>
+                    Making a task management website
+                </P>
+            </div>
+            <div>
+                <img src="Images/img3.ngp">
+            </div>
+            <div>
+                <p>
+                    Project 3
+                </p>
+                <p>
+                    I made a website for some hoteliers
+                </p>
+            </div>
+        </section>
+        <section>
+            <div>
+                <h2>
+                    About me
+                </h2>
+            </div>
+            <div>
+                <P>
+                    My name is Ibrahim hasan and i am 18 years old and am currently 
+                    pursuing my BTech Majors in "Electronics and Communiction Engineering" 
+                    in Lords Institute of Engineering ans Technology at Hyderabad, INDIA I have 
+                    a specific interest in web development. i frst started my journey in web dev 
+                    when i took part in an event conducted by some of my senios Mr Mujahed and 
+                    Mr fareeduddin.I instantly got some hardcore intersest in it.  i hope to continue
+                    my journey and become a full stack developer in future in sha allah.
+                </P>
+            </div>
+            <section></section>
+            <div>
+                <div>
+                    <p>My Schooling</p>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Playschool</td>
+                                <td>2009 - 2011</td>
+                            </tr>
+                            <tr>
+                                <td>Schooling</td>
+                                <td>2012 - 2021</td>
+                            </tr>
+                            <tr>
+                                <td>Intermediate</td>
+                                <td> 2021 - 2023</td>
+                            </tr>
+                            <tr>
+                                <td>Engineering</td>
+                                <td>2023 - 2027</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div>
+                <p>My hobbies</p>
+            </div>
+            <div>
+                <P>Football</P>
+                <P>Reading Novels</P>
+                <p>Learning new Languages</p>
+                <P>Sleeping</P>
+            </div>
+            <div>
+                <p> Things I am good at</p>
+                <div>
+                    <ul>
+                        <li>
+                            <div>
+                                <p>Football</p>
+                                <P>✨✨✨✨✨</P>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <P>Communication</P>
+                                <p>✨✨✨✨</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <P>Studies</P>
+                                <P>✨✨✨</P>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div>
+                <p>Contact me</p>
+            </div>
+            <form>
+                <div>
+                    <label for="name">Name</label>
+                    <input type="text" placeholder="Name">
+                </div>
+                <div>
+                    <label for="Ph no">Ph no</label>
+                    <input type="number"placeholder="Ph no">
+                </div>
+                <div>
+                    <label for="email">Email</label>
+                    <input type="text" placeholder="Email">
+                </div>
+                <div>
+                    <label for="Subject">Subject</label>
+                    <input type="text" placeholder="subject">
+                </div>
+                <div>
+                    <label for="message">Message</label>
+                    <input type="Message" placeholder="Message">
+                </div>
+            </form>
+        </section>
+        
+
+        
+        </section>
+    </main>
+
+    
+</body>
+</html>
